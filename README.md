@@ -21,7 +21,7 @@ Tap untuk Mendownload <br/><br/>
 ```
 
 
-link akses: 
+link akses: <br/>
 { } ganti dengan yang tercantum di github MvBae 
 ```ts
 https://bayfrs.github.io/MvBae/{ Country }/{ Jepang }/{ Socho Shihatsu no Sappukei }.html
