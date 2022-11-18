@@ -1,8 +1,8 @@
 ## Documentasi
-
-{ Judul } Ganti judul film<br/>
-{ link } Ganti link download film<br/>
-{ Episode } Ganti/Tambah episode<br/>
+### Edit file
+```{ Judul }``` Ganti judul film<br/>
+```{ link }``` Ganti link download film<br/>
+```{ Episode }``` Ganti/Tambah episode<br/>
 ```ts
 <!DOCTYPE html>
 <html lang="en">
@@ -21,10 +21,10 @@ Tap untuk Mendownload <br/><br/>
 ```
 
 
-link akses: 
-<br/>{ Country } ganti nama folder yang tercantum di github MvBae
-<br/>{ Jepang } ganti nama folder yang tercantum di github MvBae
-<br/>{ Socho Shihatsu no Sappukei } ganti judul film yang tercantum di github MvBae
+### Edit link
+```{ Country }``` ganti nama folder yang tercantum di github MvBae
+<br/>```{ Jepang }``` ganti nama folder yang tercantum di github MvBae
+<br/>```{ Socho Shihatsu no Sappukei }``` ganti judul film yang tercantum di github MvBae
 ```ts
 https://bayfrs.github.io/MvBae/{ Country }/{ Jepang }/{ Socho Shihatsu no Sappukei }.html
 ```
