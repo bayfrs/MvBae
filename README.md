@@ -1,4 +1,4 @@
-##Documentasi
+## Documentasi
 
 { Judul } Ganti judul film<br/>
 { link } Ganti link download film<br/>
@@ -29,5 +29,5 @@ https://bayfrs.github.io/MvBae/{ Country }/{ Jepang }/{ Socho Shihatsu no Sappuk
 
 ```
 
-#Info
+## Info
 easy akses link film streaming and download
