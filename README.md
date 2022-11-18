@@ -22,7 +22,9 @@ Tap untuk Mendownload <br/><br/>
 
 
 link akses: 
-<br/>{ } ganti dengan yang tercantum di github MvBae 
+<br/>{ Country } ganti nama folder yang tercantum di github MvBae
+<br/>{ Jepang } ganti nama folder yang tercantum di github MvBae
+<br/>{ Socho Shihatsu no Sappukei } ganti judul film yang tercantum di github MvBae
 ```ts
 https://bayfrs.github.io/MvBae/{ Country }/{ Jepang }/{ Socho Shihatsu no Sappukei }.html
 ```
