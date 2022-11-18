@@ -1,7 +1,8 @@
-#Documentasi
-{ Judul } Ganti judul film
-{ link } Ganti link download film
-{ Episode } Ganti/Tambah episode
+##Documentasi
+
+{ Judul } Ganti judul film<br/>
+{ link } Ganti link download film<br/>
+{ Episode } Ganti/Tambah episode<br/>
 ```ts
 <!DOCTYPE html>
 <html lang="en">
@@ -27,3 +28,6 @@ link akses:
 https://bayfrs.github.io/MvBae/{ Country }/{ Jepang }/{ Socho Shihatsu no Sappukei }.html
 
 ```
+
+#Info
+easy akses link film streaming and download
